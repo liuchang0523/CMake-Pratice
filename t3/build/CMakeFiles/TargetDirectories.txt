@@ -1,0 +1,4 @@
+C:/Users/liuchang/source/repos/CMake-Pratice/t3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/liuchang/source/repos/CMake-Pratice/t3/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/liuchang/source/repos/CMake-Pratice/t3/build/lib/CMakeFiles/hello.dir
+C:/Users/liuchang/source/repos/CMake-Pratice/t3/build/lib/CMakeFiles/hello_static.dir
